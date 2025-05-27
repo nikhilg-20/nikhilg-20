@@ -1,25 +1,68 @@
-<h1 align="center">Hi 👋, I'm Nikhil Ghugare</h1>
-<h3 align="center">I’m a passionate data science graduate student at Seattle University, blending curiosity with code to turn complex data into meaningful stories and smart solutions.</h3>
-🔍 About Me <br>
-🎓 Master's Student at Seattle University (Class of 2026)<br>  
-Courses: Statistical ML, Big Data Analytics, Data Visualization, AI, Ethics & Law in Data Science <br> 
-🎓 Bachelor of Engineering in Computer Engineering – Savitribai Phule Pune University 
-CGPA: 7.89/10<br>  
-🌍 Based in Seattle, WA | Originally from India 🇮🇳<br>  
-📫 Reach me: [nikhil.ghugare20702@gmail.com](mailto:nikhil.ghugare20702@gmail.com)<br>  
-[🔗 LinkedIn]   (https://www.linkedin.com/in/nikhilg2103/) <br>
-📫 How to reach me **nikhil.ghugare20702@gmail.com**
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilg-20&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilg-20" /> </p>
+# 👋 Hello, I’m Nikhil Ghugare  
+_Data Scientist in the Making | Cloud Explorer | Insight Enthusiast_
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nikhilghugare4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhilghugare4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/nikhilg2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nikhilg2103" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nikhil_ghugare_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nikhil_ghugare_20/" height="30" width="40" /></a>
-</p>
+I’m a passionate data science graduate student at Seattle University, blending curiosity with code to turn complex data into meaningful stories and smart solutions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+With a background in computer engineering and experience in machine learning, cloud platforms, and full-stack development, I thrive on solving real-world problems — from fraud detection to climate analysis. Whether it’s designing predictive models or building intuitive web applications, I enjoy working at the intersection of data, technology, and creativity.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilg-20&show_icons=true&locale=en" alt="nikhilg-20" /></p>
+💡 I believe in learning by doing, collaborating across disciplines, and using data for good.
+
+When I’m not coding, you might find me exploring new research papers, visualizing insights, or just brainstorming the next big project.
+
+---
+
+## 🔍 About Me
+
+- 🎓 **Master's Student** at Seattle University (Class of 2026)  
+  Courses: Statistical ML, Big Data Analytics, Data Visualization, AI, Ethics & Law in Data Science  
+- 🎓 **Bachelor of Engineering in Computer Engineering** – Savitribai Phule Pune University  
+  CGPA: 7.89/10  
+- 🌍 Based in Seattle, WA | Originally from India 🇮🇳  
+- 📫 Reach me: [nikhil.ghugare20702@gmail.com](mailto:nikhil.ghugare20702@gmail.com)  
+  [🔗 LinkedIn](https://www.linkedin.com/in/nikhil-ghugare-20702ngg/)
+
+---
+
+## 💼 Experience
+
+- **Data Science Intern – Prodigy InfoTech**  
+  → Built predictive models for business forecasting using machine learning and SQL  
+  → Designed ERP databases and performed exploratory data analysis
+
+- **Web Development Intern – Oasis InfoByte**  
+  → Built interactive user interfaces using HTML, CSS, JavaScript, and WordPress  
+  → Designed modern UI/UX using Figma
+
+---
+
+## 🧠 Skills & Tools
+
+**Languages & ML**: Python, R, SQL, Java, Machine Learning  
+**Cloud Platforms**: AWS, Google Cloud Platform, Azure  
+**Databases**: MySQL, MongoDB, Oracle, ETL  
+**Visualization**: Power BI, Tableau, Google Charts  
+**Tools**: Jupyter Notebook, VS Code, Git, Excel, Kaggle
+
+---
+
+## 📊 Projects
+
+- 🔐 **Online Transaction Security using ML**  
+  Built a fraud detection model using XGBoost for multinational finance companies.
+
+- 🏬 **Shopping Complex ERP System**  
+  Developed an ERP system using SQL technologies for multi-outlet product tracking.
+
+- 🌎 **Climate Change Prediction** *(Research)*  
+  Leveraged ML models to predict environmental trends and disasters.
+
+- 🤖 **Privacy-Preserving Visual Data** *(Research)*  
+  Designed text-aware masking techniques using NLP and object detection for multimedia privacy.
+
+---
+
+## 🚀 Let's Collaborate!
+
+I’m open to collaborations on data-driven projects, research, and anything involving creative problem-solving with technology. Feel free to check out my repositories and connect!
+
+---
