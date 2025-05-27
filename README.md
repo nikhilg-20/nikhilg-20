@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nikhil Ghugare</h1>
 <h3 align="center">I’m a passionate data science graduate student at Seattle University, blending curiosity with code to turn complex data into meaningful stories and smart solutions.</h3>
-
+🔍 About Me <br>
+🎓 Master's Student at Seattle University (Class of 2026)<br>  
+Courses: Statistical ML, Big Data Analytics, Data Visualization, AI, Ethics & Law in Data Science <br> 
+🎓 Bachelor of Engineering in Computer Engineering – Savitribai Phule Pune University 
+CGPA: 7.89/10<br>  
+🌍 Based in Seattle, WA | Originally from India 🇮🇳<br>  
+📫 Reach me: [nikhil.ghugare20702@gmail.com](mailto:nikhil.ghugare20702@gmail.com)<br>  
+[🔗 LinkedIn]   (https://www.linkedin.com/in/nikhilg2103/) <br>
+📫 How to reach me **nikhil.ghugare20702@gmail.com**
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilg-20&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilg-20" /> </p>
-
-- 📫 How to reach me **nikhil.ghugare20702@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
