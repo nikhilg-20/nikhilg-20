@@ -1,5 +1,3 @@
-![Hi I'm Nikhil](/Users/nikhilghugare/Desktop/SU_Seal.svg)
-
 # 👋 Hello, I’m Nikhil Ghugare  
 _Data Scientist in the Making | Cloud Explorer | Insight Enthusiast_
 
