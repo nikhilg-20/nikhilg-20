@@ -1,4 +1,7 @@
-# 👋 Hello, I’m Nikhil Ghugare
+![Hi I'm Nikhil](/Users/nikhilghugare/Desktop/SU_Seal.svg)
+
+# 👋 Hello, I’m Nikhil Ghugare  
+_Data Scientist in the Making | Cloud Explorer | Insight Enthusiast_
 
 I’m a passionate data science graduate student at Seattle University, blending curiosity with code to turn complex data into meaningful stories and smart solutions.
 
