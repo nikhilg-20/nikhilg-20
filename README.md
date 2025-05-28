@@ -1,15 +1,8 @@
-### Hey, I'm Nikhil Gurusidha Ghugare 👋
-
----
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kmohammedsu/kmohammedsu/main/me1.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/nikhilg-20/nikhilg-20/blob/main/me.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I'm a **Data Science Graduate Student** at Seattle University, passionate about solving real-world problems through data. I combine a strong math background with practical experience in predictive modeling, machine learning, and geospatial analytics.
-
 ---
-
 - 🔍 Currently working on **Unsupervised-Learning-on-Airbnb-NYC-Listings**
 - 📊 Recently completed **Neural network-based bird species audio classification** and **SVM-based Health Risk Prediction**
 - 🌧️ Built a geospatial model to predict **Seattle parking demand using weather data**
