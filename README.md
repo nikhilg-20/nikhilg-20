@@ -1,68 +1,74 @@
-# 👋 Hello, I’m Nikhil Ghugare  
-_Data Scientist in the Making | Cloud Explorer | Insight Enthusiast_
-
-I’m a passionate data science graduate student at Seattle University, blending curiosity with code to turn complex data into meaningful stories and smart solutions.
-
-With a background in computer engineering and experience in machine learning, cloud platforms, and full-stack development, I thrive on solving real-world problems — from fraud detection to climate analysis. Whether it’s designing predictive models or building intuitive web applications, I enjoy working at the intersection of data, technology, and creativity.
-
-💡 I believe in learning by doing, collaborating across disciplines, and using data for good.
-
-When I’m not coding, you might find me exploring new research papers, visualizing insights, or just brainstorming the next big project.
+### Hey, I'm Nikhil Gurusidha Ghugare 👋
 
 ---
 
-## 🔍 About Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kmohammedsu/kmohammedsu/main/me1.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
-- 🎓 **Master's Student** at Seattle University (Class of 2026)  
-  Courses: Statistical ML, Big Data Analytics, Data Visualization, AI, Ethics & Law in Data Science  
-- 🎓 **Bachelor of Engineering in Computer Engineering** – Savitribai Phule Pune University  
-  CGPA: 7.89/10  
-- 🌍 Based in Seattle, WA | Originally from India 🇮🇳  
-- 📫 Reach me: [nikhil.ghugare20702@gmail.com](mailto:nikhil.ghugare20702@gmail.com)  
-  [🔗 LinkedIn](https://www.linkedin.com/in/nikhil-ghugare-20702ngg/)
+I'm a **Data Science Graduate Student** at Seattle University, passionate about solving real-world problems through data. I combine a strong math background with practical experience in predictive modeling, machine learning, and geospatial analytics.
 
 ---
 
-## 💼 Experience
-
-- **Data Science Intern – Prodigy InfoTech**  
-  → Built predictive models for business forecasting using machine learning and SQL  
-  → Designed ERP databases and performed exploratory data analysis
-
-- **Web Development Intern – Oasis InfoByte**  
-  → Built interactive user interfaces using HTML, CSS, JavaScript, and WordPress  
-  → Designed modern UI/UX using Figma
+- 🔍 Currently working on **Unsupervised-Learning-on-Airbnb-NYC-Listings**
+- 📊 Recently completed **Neural network-based bird species audio classification** and **SVM-based Health Risk Prediction**
+- 🌧️ Built a geospatial model to predict **Seattle parking demand using weather data**
+- ⚙️ Interests: Modeling, Geospatial Data, ML Interpretability, and Ethical AI
+- 🎯 Goal: Deliver insights that actually *mean* something—backed by models, not just metrics
 
 ---
 
-## 🧠 Skills & Tools
+### 🔧 Technical Skills
 
-**Languages & ML**: Python, R, SQL, Java, Machine Learning  
-**Cloud Platforms**: AWS, Google Cloud Platform, Azure  
-**Databases**: MySQL, MongoDB, Oracle, ETL  
-**Visualization**: Power BI, Tableau, Google Charts  
-**Tools**: Jupyter Notebook, VS Code, Git, Excel, Kaggle
+**Languages**  
+Python | R | SQL | MySQL
 
----
+**Machine Learning**  
+Scikit-learn | TensorFlow | XGBoost | Random Forest | SVM | SMOTE | Regression Modeling
 
-## 📊 Projects
+**Data Engineering**  
+Feature Engineering | Geospatial Analysis | Spatio-temporal Modeling | Data Cleaning
 
-- 🔐 **Online Transaction Security using ML**  
-  Built a fraud detection model using XGBoost for multinational finance companies.
+**Deep Learning**  
+CNNs | Spectrograms | Audio Signal Processing
 
-- 🏬 **Shopping Complex ERP System**  
-  Developed an ERP system using SQL technologies for multi-outlet product tracking.
-
-- 🌎 **Climate Change Prediction** *(Research)*  
-  Leveraged ML models to predict environmental trends and disasters.
-
-- 🤖 **Privacy-Preserving Visual Data** *(Research)*  
-  Designed text-aware masking techniques using NLP and object detection for multimedia privacy.
+**Tools & Platforms**  
+Git | Jupyter | Google Colab | AWS | PyCharm | MongoDB | Snowflake
 
 ---
 
-## 🚀 Let's Collaborate!
+### 📂 Projects
 
-I’m open to collaborations on data-driven projects, research, and anything involving creative problem-solving with technology. Feel free to check out my repositories and connect!
+- 🔹 [Seattle Smart Parking Demand Prediction](https://github.com/nikhilg-20/seattle-parking-weather-analysis-main)  
+  Forecasted parking demand using weather and spatial features 
+
+- 🔹 [Youth Drug Use Risk Modeling](https://github.com/nikhilg-20/Youth-Drug-Use-Risk-Modeling)  
+  Predicted adolescent substance use with 55K+ survey responses and 300+ engineered features
+
+- 🔹 [SVM-Based Health Risk Predictor](https://github.com/nikhilg-20/SVM-Health)  
+  Modeled diabetes risk using NHIS data, improved recall for minority classes with SMOTE
+
+- 🔹 [Bird Audio Classification](https://github.com/nikhilg-20/Bird-Sound-Classifier)  
+  Used CNNs and spectrograms to classify bird species from sound clips 
 
 ---
+
+
+
+### 🌐 Connect with Me
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/nikhilg2103)
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/nikhilg-20)
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:nikhil.ghugare20702@gmail.com)
+
+<br/>
+
+---
+
+### ✨ Interests
+Travel, Music and Sound, Data-driven Problem Solving, Sports, Exploring Tech, Films & Documentaries
+
+---
+
+Let's connect and build something meaningful.  
+**If you liked any project, drop a ⭐️ — it means a lot!**
