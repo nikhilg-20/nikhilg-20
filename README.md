@@ -23,7 +23,7 @@ Scikit-learn | TensorFlow | XGBoost | Random Forest | SVM | SMOTE | Regression M
 Feature Engineering | Geospatial Analysis | Spatio-temporal Modeling | Data Cleaning | ETL Pipelines | Hadoop | Spark (PySpark) | Data Warehousing
 
 **Deep Learning**  
-CNNs | Spectrograms | Audio Signal Processing | Multiclass Classification | Binary Classification
+CNNs | Spectrograms | Audio Signal Processing | TensorFlow | Binary & Multiclass Classification
 
 **Tools & Platforms**  
 Git | Jupyter | Google Colab | AWS | PyCharm | MongoDB | Snowflake | Docker | Tableau | Power BI | VS Code 
