@@ -14,19 +14,19 @@
 ### 🔧 Technical Skills
 
 **Languages**  
-Python | R | SQL | MySQL
+Python | R | SQL | MySQL | Bash/Shell Scripting | Java
 
 **Machine Learning**  
-Scikit-learn | TensorFlow | XGBoost | Random Forest | SVM | SMOTE | Regression Modeling
+Scikit-learn | TensorFlow | XGBoost | Random Forest | SVM | SMOTE | Regression Modeling | LightGBM | Clustering (K-Means, DBSCAN) | Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)
 
 **Data Engineering**  
-Feature Engineering | Geospatial Analysis | Spatio-temporal Modeling | Data Cleaning
+Feature Engineering | Geospatial Analysis | Spatio-temporal Modeling | Data Cleaning | ETL Pipelines | Hadoop | Spark (PySpark) | Data Warehousing
 
 **Deep Learning**  
-CNNs | Spectrograms | Audio Signal Processing
+CNNs | Spectrograms | Audio Signal Processing | Multiclass Classification | Binary Classification
 
 **Tools & Platforms**  
-Git | Jupyter | Google Colab | AWS | PyCharm | MongoDB | Snowflake
+Git | Jupyter | Google Colab | AWS | PyCharm | MongoDB | Snowflake | Docker | Tableau | Power BI | VS Code 
 
 ---
 
