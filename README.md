@@ -26,7 +26,7 @@ Feature Engineering | Geospatial Analysis | Spatio-temporal Modeling | Data Clea
 CNNs | Spectrograms | Audio Signal Processing | TensorFlow | Binary & Multiclass Classification
 
 **Tools & Platforms**  
-Git | Jupyter | Google Colab | AWS | PyCharm | MongoDB | Snowflake | Docker | Tableau | Power BI | VS Code 
+ArcGIS | Git | Jupyter | Google Colab | AWS | PyCharm | MongoDB | Snowflake | Docker | Tableau | Power BI | VS Code 
 
 ---
 
