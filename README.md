@@ -3,8 +3,8 @@
 </p>
 
 ---
-- 🔍 Currently working on **Unsupervised-Learning-on-Airbnb-NYC-Listings**
-- 📊 Recently completed **Neural network-based bird species audio classification** and **SVM-based Health Risk Prediction**
+- 🔍 Currently working on ****
+- 📊 Recently completed **Unsupervised-Learning-on-Airbnb-NYC-Listings**
 - 🌧️ Built a geospatial model to predict **Seattle parking demand using weather data**
 - ⚙️ Interests: Modeling, Geospatial Data, ML Interpretability, and Ethical AI
 - 🎯 Goal: Deliver insights that actually *mean* something—backed by models, not just metrics
