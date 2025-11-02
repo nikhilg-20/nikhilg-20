@@ -3,7 +3,7 @@
 </p>
 
 ---
-- 🔍 Currently working on ****
+- 🔍 Currently working on ArcGIS Pro
 - 📊 Recently completed **Unsupervised-Learning-on-Airbnb-NYC-Listings**
 - 🌧️ Built a geospatial model to predict **Seattle parking demand using weather data**
 - ⚙️ Interests: Modeling, Geospatial Data, ML Interpretability, and Ethical AI
