@@ -14,20 +14,16 @@
 ### 🔧 Technical Skills
 
 **Languages**  
-Python | R | SQL | MySQL | Bash/Shell Scripting | Java
+Python | SQL | R | Java | Excel (Advanced)
 
-**Machine Learning**  
-Scikit-learn | TensorFlow | XGBoost | Random Forest | SVM | SMOTE | Regression Modeling | LightGBM | Clustering (K-Means, DBSCAN) | Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)
+**Machine Learning & Statistics**  
+Scikit-learn | XGBoost | TensorFlow | PyTorch | Random Forest | SVM | CNNs | Statistical Modeling | Classification | Clustering | Time-Series Forecasting | Imbalanced-learn
 
-**Data Engineering**  
-Feature Engineering | Geospatial Analysis | Spatio-temporal Modeling | Data Cleaning | ETL Pipelines | Hadoop | Spark (PySpark) | Data Warehousing
+**Data Engineering & Databases**  
+PySpark | Hadoop | Hive | ETL/ELT | Data Pipelines | Data Warehousing | MySQL | PostgreSQL | SQL Server | MongoDB | Data Modeling | AWS (S3, EC2, Lambda)
 
-**Deep Learning**  
-CNNs | Spectrograms | Audio Signal Processing | TensorFlow | Binary & Multiclass Classification
-
-**Tools & Platforms**  
-ArcGIS | Git | Jupyter | Google Colab | AWS | PyCharm | MongoDB | Snowflake | Docker | Tableau | Power BI | VS Code 
-
+**Business Intelligence & Visualization**
+Power BI | DAX | Power Query | Power Automate | Matplotlib | Seaborn | Plotly | ggplot2 | Dashboard Development
 ---
 
 ### 📂 Projects
