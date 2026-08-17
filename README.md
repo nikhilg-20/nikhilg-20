@@ -19,10 +19,10 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,aws,git,github,mysql,postgres,mongodb,pytorch,sklearn,tensorflow,vscode" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,r,aws,mysql,postgres,mongodb,pytorch,sklearn,tensorflow,vscode,git,github" alt="Skill Icons" />
 </p>
 
----
+**Also working with:** XGBoost · Power BI · DAX · PySpark · Hadoop · Matplotlib · Seaborn · Plotly · Advanced Excel
 
 ### 🚀 Highlight Projects
 
