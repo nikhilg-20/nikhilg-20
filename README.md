@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://github.com/nikhilg-20/nikhilg-20/blob/main/me.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
 
 ---
 - 🔍 Currently working on ArcGIS Pro
