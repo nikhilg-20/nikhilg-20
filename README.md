@@ -59,18 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilg-20&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=nikhilg-20&theme=radical&border_radius=10&fire=DD2727" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilg-20&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
 ### 🎯 What I'm Learning
 
 - 🧩 Advanced ML & Statistical Modeling (Seattle University coursework)
